@@ -118,4 +118,4 @@ O projeto segue o fluxo:
 
 ## Status do projeto
 
-**Em andamento — /15 casos de teste executados.**
+**Em andamento — 1/15 casos de teste executados.**
