@@ -32,23 +32,23 @@ Os testes serão realizados nas seguintes áreas:
 
 ## Casos de teste
 
-| ID     | Cenário                              | Status     |
-| ------ | ------------------------------------ | ---------- |
-| QTL-01 | Cadastro de novo usuário             | A EXECUTAR |
-| QTL-02 | Login com credenciais válidas        | A EXECUTAR |
-| QTL-03 | Login com senha inválida             | A EXECUTAR |
-| QTL-04 | Login com usuário inválido           | A EXECUTAR |
-| QTL-05 | Busca por produto existente          | A EXECUTAR |
-| QTL-06 | Busca por produto inexistente        | A EXECUTAR |
-| QTL-07 | Visualização de produto              | A EXECUTAR |
-| QTL-08 | Adicionar produto ao carrinho        | A EXECUTAR |
-| QTL-09 | Remover produto do carrinho          | A EXECUTAR |
-| QTL-10 | Alterar quantidade de produto        | A EXECUTAR |
-| QTL-11 | Checkout com dados válidos           | A EXECUTAR |
-| QTL-12 | Checkout com campo obrigatório vazio | A EXECUTAR |
-| QTL-13 | Validação do pagamento               | A EXECUTAR |
-| QTL-14 | Finalização de pedido                | A EXECUTAR |
-| QTL-15 | Logout do usuário                    | A EXECUTAR |
+| ID     | Cenário                              | Status     |  Jira   |
+| ------ | ------------------------------------ | ---------- | ------- |
+| EQL-1  | Acesso à página inicial              |   PASS     | [EQL-1](https://espeditomarquesdossantos.atlassian.net/browse/EQL-1)   |
+| EQL-2  | Cadastro de novo usuário             | A EXECUTAR |
+| EQL-3  | Login com credenciais válidas        | A EXECUTAR |
+| EQL-4  | Login com senha inválida             | A EXECUTAR |
+| EQL-5  | Login com usuário inválido           | A EXECUTAR |
+| EQL-6  | Busca por produto existente          | A EXECUTAR |
+| EQL-7  | Busca por produto inexistente        | A EXECUTAR |
+| EQL-8  | Visualização de produto              | A EXECUTAR |
+| EQL-9  | Adicionar produto ao carrinho        | A EXECUTAR |
+| EQL-10 | Alterar quantidade de produto        | A EXECUTAR |
+| EQL-11 | Remover produto do carrinho          | A EXECUTAR |
+| EQL-12 | Checkout com dados válidos           | A EXECUTAR |
+| EQL-13 | Checkout com campo obrigatório vazio | A EXECUTAR |
+| EQL-14 | Validação do pagamento               | A EXECUTAR |
+| EQL-15 | Finalização de pedido                | A EXECUTAR |
 
 ## Jira
 
@@ -118,4 +118,4 @@ O projeto segue o fluxo:
 
 ## Status do projeto
 
-**Em andamento — 0/15 casos de teste executados.**
+**Em andamento — /15 casos de teste executados.**
