@@ -35,7 +35,7 @@ Os testes serão realizados nas seguintes áreas:
 | ID     | Cenário                              | Status     |  Jira   |
 | ------ | ------------------------------------ | ---------- | ------- |
 | EQL-1  | Acesso à página inicial              |   PASS     | [EQL-1](https://espeditomarquesdossantos.atlassian.net/browse/EQL-1)   |
-| EQL-2  | Cadastro de novo usuário             | A EXECUTAR |
+| EQL-2 | Cadastro de novo usuário | PASS | [EQL-2](https://espeditomarquesdossantos.atlassian.net/browse/EQL-2) |
 | EQL-3  | Login com credenciais válidas        | A EXECUTAR |
 | EQL-4  | Login com senha inválida             | A EXECUTAR |
 | EQL-5  | Login com usuário inválido           | A EXECUTAR |
